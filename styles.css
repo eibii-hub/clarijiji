@@ -1,0 +1,36 @@
+body{
+    background-color: coral;
+    font-family: sans-serif;
+    color: white;
+}
+
+h1{
+    font-weight: 3;
+    text-align: center;
+}
+
+.card{
+    background: #3a3a9a;
+    text-align: center;
+    width: 500px;
+    padding: 16px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+img{
+    width: 30%;
+    margin:auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 100%;
+}
+
+.boton_estilo{
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: #9f6;
+    color: #222;
+    border-radius: 8px;
+    text-decoration: none;
+}
